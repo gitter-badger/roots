@@ -16,6 +16,7 @@ A light, super fast, and intuitive static build system made for front end develo
 
 Installation
 ------------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mjrev/roots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Make sure you have [node.js](http://nodejs.org/) installed, then just run `npm install roots -g` and you'll be all set.
 
